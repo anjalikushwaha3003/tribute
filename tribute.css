@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:aqua;  
+}
+
+.container{
+    height:400px;
+    width:100%;
+    margin:auto;
+
+    
+
+}
+.L1{
+    height:400px;
+    width:40%;
+    float:left;
+    font-size:20px;
+    
+}
+.R1{
+    height:400px;
+    width:50%;
+    float:left;
+}
+.R1 img{
+    background-size: cover;
+    height: 400px;
+    width:100%;
+}
+.about{
+    height:400px;
+    width:100%;
+    margin:auto;
+
+}
+.para{
+    
+    color:brown;
+    background-color:gainsboro;
+    font-size:28px;
+    margin-bottom:0px;
+}
+
+.upper{
+    height: 800px;
+    width:100%;
+    background-color: azure;
+    margin:0px auto;
+    margin-top:0px;
+}
+.left{
+   height:800px;
+    width:50%;
+    float:left;
+
+}
+.right{
+   height:800px;
+    width:50%;
+    float:left;
+}
